@@ -87,8 +87,8 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```
-  git clone https://github.com/lorenzoworx/Blog-App.git
-  cd Blog-App
+  git clone https://github.com/lorenzoworx/Reciep-App.git
+  cd Reciep-App
 ```
 
 ### Install
@@ -101,7 +101,7 @@ Install project dependencies with:
 ### Run localy
  - Then go to the right folder 
 ```
-$ cd Blog-App
+$ cd Reciep-App
 ```
 ```
 $ bundle
@@ -181,7 +181,7 @@ To set up RSpec in your app and create the Spec folder run:
 
 ## 🤝 Contributing <a name="contributing"></a>
 
-Contributions, [issues](https://github.com/Benawi/Blog-App/issues), and feature requests are welcome!
+Contributions, [issues](https://github.com/Benawi/Reciep-App/issues), and feature requests are welcome!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
