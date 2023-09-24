@@ -61,7 +61,7 @@ The project is a repository consisting of the following files:
 - [x] A login page.
 - [x] A registration page.
 - [x] A food list (with all CRUD implementation, except for 'update').
-- [x] A recipes list (with all CRUD implementation, except for 'update').
+- [x] A recipe list (with all CRUD implementation, except for 'update').
 - [x] A general shopping list view (all missing food for all your recipes and total price).
 - [x] A list of all public recipes from other users with their names and total prices.
 - [x] Table and column names match the [ERD](https://github.com/microverseinc/curriculum-rails/blob/main/recipe-app/images/recipe_erd.png) diagram with developed
@@ -80,7 +80,7 @@ In order to run this project you need:
 
 - [Ruby](https://www.ruby-lang.org/en/) installed and running. To get more information, read the [installation instructions](https://github.com/microverseinc/curriculum-ruby/blob/main/simple-ruby/articles/ruby_installation_instructions.md).
 - You should be able to use [IRB](https://en.wikipedia.org/wiki/Ruby_(programming_language)#Features).
-- First of all make sure you have both `Ruby` & `Rails` installed in your machine
+- First of all, make sure you have both `Ruby` & `Rails` installed in your machine
  (else You can install `Rails` just with this simple command  ```gem install rails```)
 ### Setup
 
@@ -88,7 +88,7 @@ Clone this repository to your desired folder:
 
 ```
   git clone https://github.com/lorenzoworx/Reciep-App.git
-  cd Reciep-App
+  cd Recipe-App
 ```
 
 ### Install
@@ -98,10 +98,10 @@ Install project dependencies with:
 ```
   bundle install
 ```
-### Run localy
+### Run locally
  - Then go to the right folder 
 ```
-$ cd Reciep-App
+$ cd Recipe-App
 ```
 ```
 $ bundle
