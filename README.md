@@ -115,7 +115,7 @@ make sure the database is up and running.
 ```
 $ rails db:create
 ```
-When you will add migration file then, you can add command like
+When you add a migration file, you can add commands like
 ```
 $ rails db:migrate
 ```
@@ -131,7 +131,7 @@ $ rails db:seed
 Go to your gemfile and add the RSpec gem in the development, test group:
 
  ```
- group :development, :test do  
+ group:development, test do  
   gem 'rspec-rails'
  end
  ```
@@ -145,7 +145,7 @@ To set up RSpec in your app and create the Spec folder run:
  ```
   $ rails generate rspec:install
  ```
-  To run Request specs locally you need just to run this following command in your terminal :
+  To run Request specs locally you need just to run the following command in your terminal :
  ```
  $ rspec spec/
  $ rspec spec/ --format documentation 
@@ -175,7 +175,7 @@ To set up RSpec in your app and create the Spec folder run:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
-- [ ] Optimaze the perfomance of the app.
+- [ ] Optimize the performance of the app.
 - [ ] Make the UI more user friendly
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -194,7 +194,7 @@ Give us ⭐️ If you like this project!
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 - We wanted to take a moment to express my sincere gratitude for the opportunity to work with you all on this project.
-- Microverse, thank you for providing the structure, guidance and community to help me level up my skills as a developer. The experiential learning model has been invaluable in improving my coding abilities and collaboration skills. I appreciate the code reviews and feedback to help me write cleaner, more professional code..
+- Microverse, thank you for providing the structure, guidance, and community to help me level up my skills as a developer. The experiential learning model has been invaluable in improving my coding abilities and collaboration skills. I appreciate the code reviews and feedback to help me write cleaner, more professional code.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
